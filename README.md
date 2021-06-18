@@ -1,6 +1,6 @@
 # prototype
 
-A new Flutter project.
+This is an unfinished Flutter application which I developed for my final year project, it still has some features to be added before being published to playstore.
 
 ## Getting Started
 
