@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662058369539",
+    "project_id": "link-me-prototype",
+    "storage_bucket": "link-me-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662058369539:android:ebf78193100deaa3e28436",
+        "android_client_info": {
+          "package_name": "com.naqvi.prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662058369539-fludqhhloa08davlrh0gb6e2og5964mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgS52Ab0LLmfQL7eJYzKpv8Q6F_0bT9F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662058369539-fludqhhloa08davlrh0gb6e2og5964mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
