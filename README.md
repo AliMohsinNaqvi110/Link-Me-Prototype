@@ -1,6 +1,6 @@
 # prototype
 
-This is an unfinished Flutter application which I developed for my final year project, it still has some features to be added before being published to playstore.
+This is a prototype for LinkMe, A social networking app dedicated to professional consultation from individual and organizational service vendors.
 
 ## Getting Started
 
